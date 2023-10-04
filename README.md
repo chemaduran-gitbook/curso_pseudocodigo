@@ -35,27 +35,27 @@
 
 ## Pseudocódigo: Estructuras repetitivas
 
-20. [Estructuras repetitivas: Mientras](curso/u20/)
-21. [Estructuras repetitivas: Repetir-Hasta Que](curso/u21/)
-22. [Estructuras repetitivas: Para](curso/u22/)
-23. [Uso específico de variables: contadores, acumuladores e indicadores](curso/u23/)
-24. [Ejercicios estructuras repetitivas](curso/u24/)
-25. [Ejercicios cadenas de caracteres](curso/u25/)
+20. [Estructuras repetitivas: Mientras](curso/5.-pseudocodigo-estructuras-repetitivas/u20.md)
+21. [Estructuras repetitivas: Repetir-Hasta Que](curso/5.-pseudocodigo-estructuras-repetitivas/u21.md)
+22. [Estructuras repetitivas: Para](curso/5.-pseudocodigo-estructuras-repetitivas/u22.md)
+23. [Uso específico de variables: contadores, acumuladores e indicadores](curso/5.-pseudocodigo-estructuras-repetitivas/u23.md)
+24. [Ejercicios estructuras repetitivas](curso/5.-pseudocodigo-estructuras-repetitivas/u24.md)
+25. [Ejercicios cadenas de caracteres](curso/5.-pseudocodigo-estructuras-repetitivas/u25.md)
 
 ## Pseudocódigo: Arreglos
 
-26. [Estructuras de datos: Arreglos (array)](curso/u26/)
-27. [Arreglos unidimensionales: Vectores](curso/u27/)
-28. [Arreglos multidimensionales: Tablas](curso/u28/)
-29. [Ejercicios de arreglos](curso/u29/)
+26. [Estructuras de datos: Arreglos (array)](curso/6.-pseudocodigo-arreglos/u26.md)
+27. [Arreglos unidimensionales: Vectores](curso/6.-pseudocodigo-arreglos/u27.md)
+28. [Arreglos multidimensionales: Tablas](curso/6.-pseudocodigo-arreglos/u28.md)
+29. [Ejercicios de arreglos](curso/6.-pseudocodigo-arreglos/u29.md)
 
 ## Pseudocódigo: Programación estructurada
 
-30. [Programación estructurada](curso/u30/)
-31. [Funciones y procedimientos](curso/u31/)
-32. [Funciones recursivas](curso/u32/)
-33. [Ejercicios de funciones](curso/u33/)
-34. [Más ejercicios](curso/u34/)
+30. [Programación estructurada](curso/7.-pseudocodigo-programacion-estructurada/u30.md)
+31. [Funciones y procedimientos](curso/7.-pseudocodigo-programacion-estructurada/u31.md)
+32. [Funciones recursivas](curso/7.-pseudocodigo-programacion-estructurada/u32.md)
+33. [Ejercicios de funciones](curso/7.-pseudocodigo-programacion-estructurada/u33.md)
+34. [Más ejercicios](curso/7.-pseudocodigo-programacion-estructurada/u34.md)
 
 ## Lenguajes de Programación
 
