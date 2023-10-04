@@ -1,6 +1,6 @@
 # 0. Curso de introducción a la programación con pseudocódigo
 
-1. [Introducción al curso](https://github.com/josedom24/curso\_programacion/raw/master/curso/u0/u0.pdf)
+* [Introducción al curso](https://github.com/josedom24/curso\_programacion/raw/master/curso/u0/u0.pdf)
 
 ## Introducción a la programación
 
