@@ -10,7 +10,7 @@
 
 ## Entorno de trabajo: PSeInt
 
-4. [Introducción a PSeInt](curso/2.-entorno-de-trabajo-pseint/u4.md)
+1. [Introducción a PSeInt](curso/2.-entorno-de-trabajo-pseint/u4.md)
 
 ## Pseudocódigo: Introducción
 
