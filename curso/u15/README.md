@@ -1,4 +1,4 @@
-# Ejecución paso a paso
+# 3.10. Ejecución paso a paso
 
 En al opción del menú `Ejecutar -> Ejecutar Paso a Paso` nos permite realizar un seguimiento más detallado de la ejecución del algoritmo (proceso de **depuración** o **debugging**). Es decir, permite observar en tiempo real qué instrucciones y en qué orden se ejecutan, como así también observar el contenido de variables o expresiones durante el proceso.
 
@@ -9,4 +9,3 @@ En al opción del menú `Ejecutar -> Ejecutar Paso a Paso` nos permite realizar 
 * Para determinar el valor de una variable o expresión, una vez pausada la ejecución paso a paso, utilice el botón **`Evaluar...`**. Aparecerá una ventana donde podrá introducir cualquier nombre de variable o expresión arbitraria (incluyendo funciones y operadores), para luego observar su valor. Una forma rápida de observar el valor de una variable consiste en hacer click con el botón derecho del ratón sobre la misma en el panel de variables (ubicado en el margen izquierdo de la ventana).
 * Si desea analizar cómo evolucionan uno o más variables a lo largo de la ejecución del algoritmo, puede activar la **`Prueba de escritorio`**. Esta opción genera una tabla donde las columnas representan variables o expresiones, y las filas los distintos estados ordenados por los que pasa el programa a medida que se va ejecutando. Para añadir variables,antes de empezar la ejecución paso a paso, pulsanos el botón **`Agregar...`**.
 * Finalmente, la opción **`Explicar con detalle cada paso`** despliega en la parte inferior de la ventana un panel donde el intérprete comentará los pasos específicos que realiza al interpretar cada instrucción. Allí aparecen por ejemplo las expresiones que se evalúan y sus resultados, las variables que se leen o asignan, las decisiones que controlan el flujo de ejecución en las estructuras de control, etc. El panel dispone de un botón para avanzar manualmente, ya que no permite el modo de avance automático.
-

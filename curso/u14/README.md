@@ -48,4 +48,4 @@ FinProceso
 
 ## Diagrama de flujo
 
-![diagrama](../u14/img/diagrama.png)
+![diagrama](img/diagrama.png)

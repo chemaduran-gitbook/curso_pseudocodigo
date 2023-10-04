@@ -20,18 +20,18 @@
 8. [Operadores y expresiones](curso/3.-pseudocodigo-introduccion/u8.md)
 9. [Asignación de variables](curso/3.-pseudocodigo-introduccion/u9.md)
 10. [Entrada y salida de información](curso/3.-pseudocodigo-introduccion/u10.md)
-11. [Otras instrucciones](curso/3.-pseudocodigo-introduccion/u11.md)
-12. [Funciones matemáticas](curso/3.-pseudocodigo-introduccion/u12.md)
-13. [Funciones de cadenas de texto](curso/3.-pseudocodigo-introduccion/u13.md)
-14. [Nuestro primer pseudocódigo completo](curso/3.-pseudocodigo-introduccion/u14.md)
-15. [Ejecución paso a paso](curso/3.-pseudocodigo-introduccion/u15.md)
-16. [Ejercicios estructura secuencial](curso/3.-pseudocodigo-introduccion/u16.md)
+11. [Otras instrucciones](curso/u11/)
+12. [Funciones matemáticas](curso/u12/)
+13. [Funciones de cadenas de texto](curso/u13/)
+14. [Nuestro primer pseudocódigo completo](curso/u14/)
+15. [Ejecución paso a paso](curso/u15/)
+16. [Ejercicios estructura secuencial](curso/u16/)
 
 ## Pseudocódigo: Estructuras alternativas
 
-17. [Estructuras alternativas: Si](curso/u17/)
-18. [Estructuras alternativas: Segun](curso/u18/)
-19. [Ejercicios estructuras alternativas](curso/u19/)
+17. [Estructuras alternativas: Si](curso/4.-pseudocodigo-estructuras-alternativas/u17.md)
+18. [Estructuras alternativas: Segun](curso/4.-pseudocodigo-estructuras-alternativas/u18.md)
+19. [Ejercicios estructuras alternativas](curso/4.-pseudocodigo-estructuras-alternativas/u19.md)
 
 ## Pseudocódigo: Estructuras repetitivas
 
